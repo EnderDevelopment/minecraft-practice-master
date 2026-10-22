@@ -1,0 +1,36 @@
+name: PracticePlugin
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+author: EnderDevelopment
+api-version: "1.21"
+commands:
+  kit:
+    description: Manage kits
+    usage: /kit
+  queue:
+    description: Join a queue
+    usage: /queue
+  party:
+    description: Manage parties
+    usage: /party
+  duel:
+    description: Duel another player
+    usage: /duel
+  leaderboard:
+    description: View leaderboards
+    usage: /leaderboard
+  event:
+    description: Manage events
+    usage: /event
+  cosmetics:
+    description: Manage cosmetics
+    usage: /cosmetics
+  spawn:
+    description: Select spawn points
+    usage: /spawn
+  permissions:
+    description: Manage permissions
+    usage: /permissions
+  config:
+    description: Configure the plugin
+    usage: /config
